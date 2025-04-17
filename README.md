@@ -1,4 +1,4 @@
-# 🚗 Predicting Uber Driver Activation — The Unforeseen
+# 🚗 Predicting Uber Driver Activation 
 
 ## 📌 Overview  
 This project analyzes a real-world business problem: understanding what factors influence whether someone who signs up for Uber actually goes on to complete their first trip as a driver. By leveraging predictive modeling and data visualization, we aim to help Uber refine its driver onboarding strategy and improve activation rates.
